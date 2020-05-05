@@ -1,0 +1,25 @@
+{
+  "name": "demo-lib-git-npm-ts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/mylib.js",
+  "types": "dist/mylib.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "/dist/*.js",
+    "/dist/*.d.ts",
+    "/types/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylwrm/demo-lib-git-npm-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ylwrm/demo-lib-git-npm-ts/issues"
+  },
+  "homepage": "https://github.com/ylwrm/demo-lib-git-npm-ts#readme"
+}
